@@ -1,0 +1,128 @@
+04:51:58.345708	INFO	Load Config From C:\FC 27 Live Editor\le_config.json
+04:51:58.347919	INFO	Config Load Done
+04:51:58.348279	INFO	[LE::VersionManager::Init]
+04:51:58.348576	INFO	[LE::VersionManager::GetLocalGameVersion]
+04:51:58.350707	INFO	Game Version: 1.0.140.52122
+04:51:58.370174	INFO	DLL MD5: 3F3E3F5A4665A97545FCB851BAC2EBA4
+04:51:59.868569	INFO	GAME MD5: D557B67A8ED3B5A2EEC0DD10E26B4AEF
+04:51:59.868994	INFO	Live Editor v27.1.0
+04:51:59.869201	INFO	Game Install Dir: C:\Jogos\EA SPORTS FC 27
+04:51:59.869402	INFO	Live Editor Dir: C:\Users\tyler\OneDrive\Documentos\FC 27 LE v27.1.0 - Private
+04:51:59.869869	INFO	[LE::FilesManager::RestoreAnticheat] Start
+04:51:59.870134	INFO	[LE::FilesManager::RestoreAnticheat] Done
+04:51:59.870332	INFO	[LE::FilesManager::BackupAnticheat] Start
+04:51:59.881898	INFO	[LE::FilesManager::BackupAnticheat] Done
+04:51:59.882376	INFO	[LE::FilesManager::InstallFakeAnticheat] Start
+04:51:59.886021	INFO	[LE::FilesManager::InstallFakeAnticheat] Done
+04:51:59.886559	INFO	anadius.cfg
+04:51:59.887171	INFO	Load Language - eng_us
+04:51:59.890999	INFO	Language Loaded
+04:51:59.891770	INFO	Load Auth From C:\FC 27 Live Editor\auth.json
+04:51:59.892055	WARN	Auth file not found
+04:51:59.892305	INFO	[Core::Init] Done
+04:51:59.893034	INFO	[LE::VersionManager::CheckUpdates] Start
+04:51:59.894758	INFO	[UIWindows::UILocaleIni::LoadLocale]
+04:51:59.895112	INFO	[UIWindows::UILocaleIni::LoadLocale] Load Encrypted C:\FC 27 Live Editor\mods\locale.ini
+04:51:59.897183	INFO	[UIWindows::UILocaleIni::DecryptLocaleFile]
+04:51:59.898124	INFO	[UIWindows::UILocaleIni::DecryptLocaleFile] Done
+04:51:59.898953	INFO	[UIWindows::UILocaleIni::LoadLocale] Done
+04:52:00.039637	INFO	[GUI::SetupImGUI] Start
+04:52:00.054992	INFO	[GUI::SetupImGUI] Done
+04:52:00.058986	INFO	[Injector::Inject]
+04:52:00.059340	INFO	[Injector::Inject] DLL dir: C:\Users\tyler\OneDrive\Documentos\FC 27 LE v27.1.0 - Private\FCLiveEditor.DLL
+04:52:00.059697	INFO	[Injector::Inject] Trying to inject into FC27.exe
+04:52:00.059937	INFO	STATUS_WAITING_FOR_GAME
+04:52:00.237553	INFO	[LE::VersionManager::DownloadVersionFile] Got response from: https://raw.githubusercontent.com/xAranaktu/FC-27-Live-Editor/refs/heads/main/version.json in 0.34s
+04:52:00.238965	INFO	[LE::VersionManager::CheckUpdates] Done
+04:52:24.624215	INFO	STATUS_INJECTING, delay 100 ms
+04:52:45.210991	INFO	Game Window Found
+04:54:08.128557	INFO	[LE::FilesManager::UnInstallFakeAnticheat] Start
+04:54:08.129635	INFO	[LE::FilesManager::RestoreAnticheat] Start
+04:54:08.146776	INFO	[LE::FilesManager::RestoreAnticheat] Done
+04:54:08.148676	INFO	[LE::FilesManager::UnInstallFakeAnticheat] Done
+23:38:29.261390	INFO	Load Config From C:\FC 27 Live Editor\le_config.json
+23:38:29.261903	INFO	Config Load Done
+23:38:29.262045	INFO	[LE::VersionManager::Init]
+23:38:29.262156	INFO	[LE::VersionManager::GetLocalGameVersion]
+23:38:29.262281	ERROR	[LE::FilesManager::GetGameInstallDirFromReg] RegOpenKey failed. Status: 2
+23:38:29.262401	WARN	Can't find game directory in registry
+23:38:29.262499	INFO	Game Version: 0.0.0.0
+23:38:29.286959	INFO	DLL MD5: 3F3E3F5A4665A97545FCB851BAC2EBA4
+23:38:29.287216	ERROR	[LE::FilesManager::GetGameInstallDirFromReg] RegOpenKey failed. Status: 2
+23:38:29.287325	WARN	Can't find game directory in registry
+23:38:29.287498	ERROR	[LE::FilesManager::GetGameInstallDirFromReg] RegOpenKey failed. Status: 2
+23:38:29.287618	WARN	Can't find game directory in registry
+23:38:29.287713	INFO	Live Editor v27.1.0
+23:38:29.287806	INFO	Game Install Dir: 
+23:38:29.287899	INFO	Live Editor Dir: C:\Users\ODEX\Downloads\FC 27 LE v27.1.0 - Magic Files Patched
+23:38:29.288007	ERROR	[LE::FilesManager::GetGameInstallDirFromReg] RegOpenKey failed. Status: 2
+23:38:29.288114	WARN	Can't find game directory in registry
+23:38:29.288237	FATAL	Can't find file
+FC27.exe
+23:38:29.288356	ERROR	[LE::FilesManager::GetGameInstallDirFromReg] RegOpenKey failed. Status: 2
+23:38:29.288450	WARN	Can't find game directory in registry
+23:38:29.288610	ERROR	[LE::FilesManager::GetGameInstallDirFromReg] RegOpenKey failed. Status: 2
+23:38:29.288753	WARN	Can't find game directory in registry
+23:38:29.288877	ERROR	[LE::FilesManager::GetGameInstallDirFromReg] RegOpenKey failed. Status: 2
+23:38:29.288969	WARN	Can't find game directory in registry
+23:38:29.289150	INFO	Load Language - eng_us
+23:38:29.293534	INFO	Language Loaded
+23:38:29.294204	INFO	Load Auth From C:\FC 27 Live Editor\auth.json
+23:38:29.294337	WARN	Auth file not found
+23:38:29.294477	INFO	[Core::Init] Done
+23:38:29.294850	INFO	[LE::VersionManager::CheckUpdates] Start
+23:38:30.057039	INFO	[LE::VersionManager::DownloadVersionFile] Got response from: https://raw.githubusercontent.com/xAranaktu/FC-27-Live-Editor/refs/heads/main/version.json in 0.76s
+23:38:30.058013	INFO	[LE::VersionManager::CheckUpdates] Done
+23:38:30.307047	ERROR	[LE::FilesManager::GetGameInstallDirFromReg] RegOpenKey failed. Status: 2
+23:38:30.307233	WARN	Can't find game directory in registry
+23:38:30.493653	INFO	[GUI::SetupImGUI] Start
+23:38:30.514427	INFO	[GUI::SetupImGUI] Done
+23:38:30.515993	INFO	[Injector::Inject]
+23:38:30.516218	INFO	[Injector::Inject] DLL dir: C:\Users\ODEX\Downloads\FC 27 LE v27.1.0 - Magic Files Patched\FCLiveEditor.DLL
+23:38:30.516449	INFO	[Injector::Inject] Trying to inject into FC27.exe
+23:38:30.516615	INFO	STATUS_WAITING_FOR_GAME
+23:38:30.536065	ERROR	[LE::FilesManager::GetGameInstallDirFromReg] RegOpenKey failed. Status: 2
+23:38:30.536254	WARN	Can't find game directory in registry
+23:38:36.461560	INFO	Load Config From C:\FC 27 Live Editor\le_config.json
+23:38:36.462033	INFO	Config Load Done
+23:38:36.462195	INFO	[LE::VersionManager::Init]
+23:38:36.462298	INFO	[LE::VersionManager::GetLocalGameVersion]
+23:38:36.462420	ERROR	[LE::FilesManager::GetGameInstallDirFromReg] RegOpenKey failed. Status: 2
+23:38:36.462518	WARN	Can't find game directory in registry
+23:38:36.462611	INFO	Game Version: 0.0.0.0
+23:38:36.484567	INFO	DLL MD5: 3F3E3F5A4665A97545FCB851BAC2EBA4
+23:38:36.484789	ERROR	[LE::FilesManager::GetGameInstallDirFromReg] RegOpenKey failed. Status: 2
+23:38:36.484893	WARN	Can't find game directory in registry
+23:38:36.485040	ERROR	[LE::FilesManager::GetGameInstallDirFromReg] RegOpenKey failed. Status: 2
+23:38:36.485139	WARN	Can't find game directory in registry
+23:38:36.485229	INFO	Live Editor v27.1.0
+23:38:36.485319	INFO	Game Install Dir: 
+23:38:36.485416	INFO	Live Editor Dir: C:\Users\ODEX\Downloads\FC 27 LE v27.1.0 - Magic Files Patched
+23:38:36.485521	ERROR	[LE::FilesManager::GetGameInstallDirFromReg] RegOpenKey failed. Status: 2
+23:38:36.485610	WARN	Can't find game directory in registry
+23:38:36.485769	FATAL	Can't find file
+FC27.exe
+23:38:36.485877	ERROR	[LE::FilesManager::GetGameInstallDirFromReg] RegOpenKey failed. Status: 2
+23:38:36.486001	WARN	Can't find game directory in registry
+23:38:36.486119	ERROR	[LE::FilesManager::GetGameInstallDirFromReg] RegOpenKey failed. Status: 2
+23:38:36.486210	WARN	Can't find game directory in registry
+23:38:36.486311	ERROR	[LE::FilesManager::GetGameInstallDirFromReg] RegOpenKey failed. Status: 2
+23:38:36.486401	WARN	Can't find game directory in registry
+23:38:36.486598	INFO	Load Language - eng_us
+23:38:36.491460	INFO	Language Loaded
+23:38:36.492192	INFO	Load Auth From C:\FC 27 Live Editor\auth.json
+23:38:36.492336	WARN	Auth file not found
+23:38:36.492470	INFO	[Core::Init] Done
+23:38:36.492792	INFO	[LE::VersionManager::CheckUpdates] Start
+23:38:36.816602	INFO	[LE::VersionManager::DownloadVersionFile] Got response from: https://raw.githubusercontent.com/xAranaktu/FC-27-Live-Editor/refs/heads/main/version.json in 0.32s
+23:38:36.817687	INFO	[LE::VersionManager::CheckUpdates] Done
+23:38:37.230453	ERROR	[LE::FilesManager::GetGameInstallDirFromReg] RegOpenKey failed. Status: 2
+23:38:37.230628	WARN	Can't find game directory in registry
+23:38:37.418057	INFO	[GUI::SetupImGUI] Start
+23:38:37.438177	INFO	[GUI::SetupImGUI] Done
+23:38:37.440135	INFO	[Injector::Inject]
+23:38:37.440372	INFO	[Injector::Inject] DLL dir: C:\Users\ODEX\Downloads\FC 27 LE v27.1.0 - Magic Files Patched\FCLiveEditor.DLL
+23:38:37.440653	INFO	[Injector::Inject] Trying to inject into FC27.exe
+23:38:37.440790	INFO	STATUS_WAITING_FOR_GAME
+23:38:37.459080	ERROR	[LE::FilesManager::GetGameInstallDirFromReg] RegOpenKey failed. Status: 2
+23:38:37.459241	WARN	Can't find game directory in registry

@@ -1,0 +1,6 @@
+"Emulator"
+    {
+        "LoadExtraDLLs"         "FCLiveEditor.DLL"
+        "PretendConnected"      "false"
+        "FakeAuth"              "false"
+    }
